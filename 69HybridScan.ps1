@@ -10,7 +10,7 @@ $VT_API_KEY = "2c3dd207ada7c39736a3ef77f6a497381a448c9fd80dce9b1d567648236fb34a"
 $VT_API_KEY = "2c3dd207ada7c39736a3ef77f6a497381a448c9fd80dce9b1d567648236fb34a"
 $YARA_URL   = "https://raw.githubusercontent.com/Jesstaslim/RuleMe/main/cheat-rules.yar"
 $YARA_BIN   = "https://github.com/Jesstaslim/RuleMe/raw/main/yara64.exe"
-$SCRIPT_URL = "https://raw.githubusercontent.com/Jesstaslim/RuleMe/main/cheat-scanner.ps1"
+$SCRIPT_URL = "https://raw.githubusercontent.com/Jesstaslim/RuleMe/main/69HybridScan.ps1"
 $WEBHOOKS   = @("https://discord.com/api/webhooks/1387456199976554547/3u10xJGxPfZY-v8eq1tq33Na8Y_CS8tKkPckRCigiuFUFLct74o0wwteOlm-LGe934fn")
 
 # === FOLDER SCAN ===
